@@ -6,10 +6,10 @@ javaFX application that allows a user to play tic tac toe against the computer.
 - Before the game begins, the AI simulates all possible game states and stores them in a tree data structure
 - Everytime the AIneeds to make a turn, it evaluates the tree and chooses the move that will minimize its chance of losing.
 <p float="left">
-  <img src="https://github.com/duplessisk/tic-tac-toe-smart-ai/blob/main/images/photo1.PNG" width="350" />
-  <img src="https://github.com/duplessisk/tic-tac-toe-smart-ai/blob/main/images/photo3.PNG" width="350" /> 
-  <img src="https://github.com/duplessisk/tic-tac-toe-smart-ai/blob/main/images/photo2.PNG" width="350" />
-  <img src="https://github.com/duplessisk/tic-tac-toe-smart-ai/blob/main/images/photo1.PNG" width="350" /> 
+  <img src="https://github.com/duplessisk/tic-tac-toe-smart-ai/blob/main/images/photo1.PNG" width="400" />
+  <img src="https://github.com/duplessisk/tic-tac-toe-smart-ai/blob/main/images/photo3.PNG" width="400" /> 
+  <img src="https://github.com/duplessisk/tic-tac-toe-smart-ai/blob/main/images/photo2.PNG" width="400" />
+  <img src="https://github.com/duplessisk/tic-tac-toe-smart-ai/blob/main/images/photo1.PNG" width="400" /> 
 </p>
 ## Running the Project locally
 1. Clone this project locally
