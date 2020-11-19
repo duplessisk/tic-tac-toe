@@ -10,14 +10,16 @@ javaFX application that allows a user to play tic tac toe against the computer.
   <img src="https://github.com/duplessisk/tic-tac-toe-smart-ai/blob/main/images/photo3.PNG" width="395" /> 
   <img src="https://github.com/duplessisk/tic-tac-toe-smart-ai/blob/main/images/photo2.PNG" width="400" />
   <img src="https://github.com/duplessisk/tic-tac-toe-smart-ai/blob/main/images/photo4.PNG" width="396" /> 
-</p>
+</p>  
+
+   
+## dependencies 
+- JDK
+- JavaFX SDK 
+
 ## Running the Project locally
 1. Clone this project locally
 2. cd into project directory
 3. Include bin and JavaFX SDK lib package in classpath
 4. Run Main.java  
    In Windows: java -cp "bin;c:/Program Files/javafx-sdk-15.0.1/lib/*" src/sample/Main.java  
-   
-## dependencies 
-- JDK
-- JavaFX SDK 
