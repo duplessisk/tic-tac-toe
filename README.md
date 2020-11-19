@@ -13,7 +13,7 @@ javaFX application that allows a user to play tic tac toe against the computer.
 </p>  
 
    
-## dependencies 
+## Dependencies 
 - JDK
 - JavaFX SDK 
 
