@@ -22,4 +22,4 @@ javaFX application that allows a user to play tic tac toe against the computer.
 2. cd into project directory
 3. Include bin and JavaFX SDK lib package in classpath
 4. Run Main.java  
-   In Windows: java -cp "bin;c:/Program Files/javafx-sdk-15.0.1/lib/*" src/sample/Main.java  
+   In Windows: java -cp "bin;%JAVAFX_SDK_LIB%\*" src/sample/Main.java  
